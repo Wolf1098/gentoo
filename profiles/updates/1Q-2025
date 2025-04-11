@@ -25,3 +25,5 @@ move dev-libs/FBGEMM sci-ml/FBGEMM
 move dev-libs/FP16 sci-ml/FP16
 move dev-libs/oneDNN sci-ml/oneDNN
 move dev-cpp/gemmlowp sci-ml/gemmlowp
+move app-misc/tracker app-misc/tinysparql
+move app-misc/tracker-miners app-misc/localsearch
